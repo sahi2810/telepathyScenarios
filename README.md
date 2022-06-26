@@ -1,4 +1,4 @@
-# telepathyScenarios
+# Telepathy Labs Scenarios
 
 ****QUESTION 1 – Find how many meeting rooms are required****
 
